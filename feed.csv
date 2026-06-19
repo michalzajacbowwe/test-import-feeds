@@ -1,0 +1,4 @@
+id,sku,name,price_gross,currency,quantity,description,image_url
+1001,SKU-1001,Test Mug,19.99,EUR,50,Ceramic mug,https://picsum.photos/id/30/600/600
+1002,SKU-1002,Test Hoodie,49.50,EUR,12,Cotton hoodie,https://picsum.photos/id/31/600/600
+1003,SKU-1003,Test Cap,14.00,EUR,0,Snapback cap,https://picsum.photos/id/32/600/600
